@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;inventory_login_service/src/main/java/com.service.inventory&apos;&#x0D;&#x0A;- Original project: &apos;inventory_user_service&apos;&#x0D;&#x0A;- Destination element: &apos;inventory_login_service/src/main/java/com.service.inventory&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     config&#x0D;&#x0A;     controller&#x0D;&#x0A;     entity" description="Copy folders" destination="=inventory_login_service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.service.inventory" element1="src/main/java/com/service/inventory/config" element2="src/main/java/com/service/inventory/controller" element3="src/main/java/com/service/inventory/entity" files="0" flags="589830" folders="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1689783230789" units="0" version="1.0"/>
+</session>
